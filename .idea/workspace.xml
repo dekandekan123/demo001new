@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e7696ee-e26f-40fd-b1ff-86db92e60a93" name="Default Changelist" comment="choni">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WNNIdjykrK4oaKXMaqnK15ZKav" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="h2&#10;mongo&#10;h2.unified&#10;mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/com/example/demo" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Database" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.demo" />
+      <recent name="com.example.demo.models" />
+      <recent name="com.example.demo.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
+    <configuration name="DemoApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventoryRepsitoryTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.models" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.models.InventoryRepsitoryTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventoryRepsitoryTests.queryByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.models" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.models.InventoryRepsitoryTests" />
+      <option name="METHOD_NAME" value="queryByName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventoryRepsitoryTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.models" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.models.InventoryRepsitoryTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.demo in demo001" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.InventoryRepsitoryTests" />
+        <item itemvalue="JUnit.InventoryRepsitoryTests.queryByName" />
+        <item itemvalue="JUnit.DemoApplicationTests" />
+        <item itemvalue="JUnit.InventoryRepsitoryTests.test" />
+        <item itemvalue="JUnit.com.example.demo in demo001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e7696ee-e26f-40fd-b1ff-86db92e60a93" name="Default Changelist" comment="" />
+      <created>1578986013554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578986013554</updated>
+      <workItem from="1578986019762" duration="2134000" />
+      <workItem from="1579154805156" duration="22000" />
+      <workItem from="1579155439365" duration="25000" />
+      <workItem from="1579587023463" duration="2786000" />
+      <workItem from="1579589959600" duration="3100000" />
+      <workItem from="1580152743500" duration="4716000" />
+      <workItem from="1580158826814" duration="368000" />
+      <workItem from="1580161111387" duration="2266000" />
+      <workItem from="1580191706930" duration="4800000" />
+      <workItem from="1580395826575" duration="6227000" />
+    </task>
+    <task id="LOCAL-00001" summary="choni">
+      <created>1580396615512</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580396615512</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="choni" />
+    <option name="LAST_COMMIT_MESSAGE" value="choni" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="720" y="72" key="#Inspections" timestamp="1580410204453">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state x="480" y="59" key="#Inspections/0.23.1280.742@0.23.1280.742" timestamp="1580161466436" />
+    <state x="720" y="72" key="#Inspections/0.23.1920.1010@0.23.1920.1010" timestamp="1580410204453" />
+    <state x="240" y="59" key="#Notifications" timestamp="1580162772149">
+      <screen x="0" y="23" width="1280" height="742" />
+    </state>
+    <state x="240" y="59" key="#Notifications/0.23.1280.742@0.23.1280.742" timestamp="1580162772149" />
+    <state x="320" y="105" key="#Plugins" timestamp="1579589924676">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state x="320" y="105" key="#Plugins/0.23.1440.835@0.23.1440.835" timestamp="1579589924676" />
+    <state x="240" y="59" key="#Project_Structure" timestamp="1580160893337">
+      <screen x="0" y="23" width="1280" height="742" />
+    </state>
+    <state x="240" y="59" key="#Project_Structure/0.23.1280.742@0.23.1280.742" timestamp="1580160893337" />
+    <state x="480" y="96" key="#SQL_Dialects" timestamp="1580161838806">
+      <screen x="0" y="23" width="1280" height="742" />
+    </state>
+    <state x="480" y="96" key="#SQL_Dialects/0.23.1280.742@0.23.1280.742" timestamp="1580161838806" />
+    <state x="589" y="105" key="#SQL_Dialects/0.23.1440.836@0.23.1440.836" timestamp="1580157052979" />
+    <state x="223" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580163317757">
+      <screen x="0" y="23" width="1280" height="742" />
+    </state>
+    <state x="223" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.742@0.23.1280.742" timestamp="1580163317757" />
+    <state x="589" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.836@0.23.1440.836" timestamp="1580157270724" />
+    <state x="468" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579592248223">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state x="468" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.835@0.23.1440.835" timestamp="1579592248223" />
+    <state x="458" y="228" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1580156747445">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="458" y="228" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1440.836@0.23.1440.836" timestamp="1580156747445" />
+    <state x="457" y="256" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580156730280">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="457" y="256" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.836@0.23.1440.836" timestamp="1580156730280" />
+    <state x="432" y="122" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1579589834897">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state x="432" y="122" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1440.835@0.23.1440.835" timestamp="1579589834897" />
+    <state x="575" y="342" width="423" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580156780166">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="508" y="306" width="423" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.835@0.23.1440.835" timestamp="1579592538247" />
+    <state x="575" y="342" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.836@0.23.1440.836" timestamp="1580156780166" />
+    <state x="571" y="156" key="CommitChangelistDialog2" timestamp="1580411298525">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state x="571" y="142" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1580396615168" />
+    <state x="571" y="156" key="CommitChangelistDialog2/0.23.1920.1009@0.23.1920.1009" timestamp="1580404981360" />
+    <state x="571" y="156" key="CommitChangelistDialog2/0.23.1920.1010@0.23.1920.1010" timestamp="1580411298525" />
+    <state x="831" y="440" key="Github.ShareDialog" timestamp="1580397145716">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="831" y="440" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580397145716" />
+    <state width="991" height="274" key="GridCell.Tab.0.bottom" timestamp="1580411010797">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state width="1238" height="186" key="GridCell.Tab.0.bottom/0.23.1280.742@0.23.1280.742" timestamp="1580197470896" />
+    <state width="1358" height="203" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1578988295102" />
+    <state width="1358" height="203" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1579593373756" />
+    <state width="820" height="203" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1580157602520" />
+    <state width="991" height="274" key="GridCell.Tab.0.bottom/0.23.1920.1010@0.23.1920.1010" timestamp="1580411010797" />
+    <state width="991" height="274" key="GridCell.Tab.0.center" timestamp="1580411010796">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state width="1238" height="186" key="GridCell.Tab.0.center/0.23.1280.742@0.23.1280.742" timestamp="1580197470895" />
+    <state width="1358" height="203" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1578988295101" />
+    <state width="1358" height="203" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1579593373756" />
+    <state width="820" height="203" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1580157602518" />
+    <state width="991" height="274" key="GridCell.Tab.0.center/0.23.1920.1010@0.23.1920.1010" timestamp="1580411010796" />
+    <state width="991" height="274" key="GridCell.Tab.0.left" timestamp="1580411010796">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state width="1238" height="186" key="GridCell.Tab.0.left/0.23.1280.742@0.23.1280.742" timestamp="1580197470895" />
+    <state width="1358" height="203" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1578988295100" />
+    <state width="1358" height="203" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1579593373755" />
+    <state width="820" height="203" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1580157602518" />
+    <state width="991" height="274" key="GridCell.Tab.0.left/0.23.1920.1010@0.23.1920.1010" timestamp="1580411010796" />
+    <state width="991" height="274" key="GridCell.Tab.0.right" timestamp="1580411010796">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state width="1238" height="186" key="GridCell.Tab.0.right/0.23.1280.742@0.23.1280.742" timestamp="1580197470896" />
+    <state width="1358" height="203" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1578988295101" />
+    <state width="1358" height="203" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1579593373756" />
+    <state width="820" height="203" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1580157602519" />
+    <state width="991" height="274" key="GridCell.Tab.0.right/0.23.1920.1010@0.23.1920.1010" timestamp="1580411010796" />
+    <state width="991" height="274" key="GridCell.Tab.1.bottom" timestamp="1580411010798">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state width="1238" height="186" key="GridCell.Tab.1.bottom/0.23.1280.742@0.23.1280.742" timestamp="1580197470897" />
+    <state width="1358" height="203" key="GridCell.Tab.1.bottom/0.23.1440.834@0.23.1440.834" timestamp="1578988295092" />
+    <state width="1358" height="203" key="GridCell.Tab.1.bottom/0.23.1440.835@0.23.1440.835" timestamp="1579593373758" />
+    <state width="820" height="203" key="GridCell.Tab.1.bottom/0.23.1440.836@0.23.1440.836" timestamp="1580156931387" />
+    <state width="991" height="274" key="GridCell.Tab.1.bottom/0.23.1920.1010@0.23.1920.1010" timestamp="1580411010798" />
+    <state width="991" height="274" key="GridCell.Tab.1.center" timestamp="1580411010797">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state width="1238" height="186" key="GridCell.Tab.1.center/0.23.1280.742@0.23.1280.742" timestamp="1580197470897" />
+    <state width="1358" height="203" key="GridCell.Tab.1.center/0.23.1440.834@0.23.1440.834" timestamp="1578988295091" />
+    <state width="1358" height="203" key="GridCell.Tab.1.center/0.23.1440.835@0.23.1440.835" timestamp="1579593373757" />
+    <state width="820" height="203" key="GridCell.Tab.1.center/0.23.1440.836@0.23.1440.836" timestamp="1580156931385" />
+    <state width="991" height="274" key="GridCell.Tab.1.center/0.23.1920.1010@0.23.1920.1010" timestamp="1580411010797" />
+    <state width="991" height="274" key="GridCell.Tab.1.left" timestamp="1580411010797">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state width="1238" height="186" key="GridCell.Tab.1.left/0.23.1280.742@0.23.1280.742" timestamp="1580197470896" />
+    <state width="1358" height="203" key="GridCell.Tab.1.left/0.23.1440.834@0.23.1440.834" timestamp="1578988295091" />
+    <state width="1358" height="203" key="GridCell.Tab.1.left/0.23.1440.835@0.23.1440.835" timestamp="1579593373757" />
+    <state width="820" height="203" key="GridCell.Tab.1.left/0.23.1440.836@0.23.1440.836" timestamp="1580156931384" />
+    <state width="991" height="274" key="GridCell.Tab.1.left/0.23.1920.1010@0.23.1920.1010" timestamp="1580411010797" />
+    <state width="991" height="274" key="GridCell.Tab.1.right" timestamp="1580411010798">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state width="1238" height="186" key="GridCell.Tab.1.right/0.23.1280.742@0.23.1280.742" timestamp="1580197470897" />
+    <state width="1358" height="203" key="GridCell.Tab.1.right/0.23.1440.834@0.23.1440.834" timestamp="1578988295092" />
+    <state width="1358" height="203" key="GridCell.Tab.1.right/0.23.1440.835@0.23.1440.835" timestamp="1579593373758" />
+    <state width="820" height="203" key="GridCell.Tab.1.right/0.23.1440.836@0.23.1440.836" timestamp="1580156931386" />
+    <state width="991" height="274" key="GridCell.Tab.1.right/0.23.1920.1010@0.23.1920.1010" timestamp="1580411010798" />
+    <state x="672" y="245" key="RollbackChangesDialog" timestamp="1580404973175">
+      <screen x="0" y="23" width="1920" height="1009" />
+    </state>
+    <state x="672" y="245" key="RollbackChangesDialog/0.23.1920.1009@0.23.1920.1009" timestamp="1580404973175" />
+    <state x="157" y="23" key="SettingsEditor" timestamp="1580194894827">
+      <screen x="0" y="23" width="1280" height="742" />
+    </state>
+    <state x="157" y="23" key="SettingsEditor/0.23.1280.742@0.23.1280.742" timestamp="1580194894827" />
+    <state x="458" y="79" key="SettingsEditor/0.23.1440.836@0.23.1440.836" timestamp="1580156611614" />
+    <state x="521" y="229" key="chooseDestDirectoryDialog" timestamp="1580156757550">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="521" y="229" key="chooseDestDirectoryDialog/0.23.1440.835@0.23.1440.835" timestamp="1579592538141" />
+    <state x="521" y="229" key="chooseDestDirectoryDialog/0.23.1440.836@0.23.1440.836" timestamp="1580156757550" />
+    <state x="551" y="324" key="com.intellij.ide.util.TipDialog" timestamp="1580395829569">
+      <screen x="0" y="23" width="1920" height="1009" />
+    </state>
+    <state x="367" y="244" key="com.intellij.ide.util.TipDialog/0.23.1280.742@0.23.1280.742" timestamp="1580191716153" />
+    <state x="413" y="272" key="com.intellij.ide.util.TipDialog/0.23.1440.834@0.23.1440.834" timestamp="1579155440570" />
+    <state x="413" y="272" key="com.intellij.ide.util.TipDialog/0.23.1440.835@0.23.1440.835" timestamp="1579589964352" />
+    <state x="413" y="272" key="com.intellij.ide.util.TipDialog/0.23.1440.836@0.23.1440.836" timestamp="1580152744693" />
+    <state x="551" y="324" key="com.intellij.ide.util.TipDialog/0.23.1920.1009@0.23.1920.1009" timestamp="1580395829569" />
+    <state x="298" y="151" width="683" height="486" key="find.popup" timestamp="1580192691843">
+      <screen x="0" y="23" width="1280" height="742" />
+    </state>
+    <state x="298" y="151" width="683" height="486" key="find.popup/0.23.1280.742@0.23.1280.742" timestamp="1580192691843" />
+    <state x="513" y="215" width="1005" height="819" key="search.everywhere.popup" timestamp="1580411260492">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state x="342" y="164" width="670" height="601" key="search.everywhere.popup/0.23.1280.742@0.23.1280.742" timestamp="1580194835248" />
+    <state x="385" y="182" width="670" height="676" key="search.everywhere.popup/0.23.1440.835@0.23.1440.835" timestamp="1579589916160" />
+    <state x="385" y="182" width="670" height="677" key="search.everywhere.popup/0.23.1440.836@0.23.1440.836" timestamp="1580156619144" />
+    <state x="513" y="215" width="1005" height="818" key="search.everywhere.popup/0.23.1920.1009@0.23.1920.1009" timestamp="1580404819803" />
+    <state x="513" y="215" width="1005" height="819" key="search.everywhere.popup/0.23.1920.1010@0.23.1920.1010" timestamp="1580411260492" />
+  </component>
+</project>
